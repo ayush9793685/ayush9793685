@@ -30,8 +30,6 @@
 <br clear="right" />
 
 ---
-
----
 ## 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,tensorflow,pytorch,mysql,mongodb,git,vscode,linux&theme=dark" />
@@ -67,6 +65,7 @@
 </td>
 </tr>
 </table>
+
 ---
 ## 📊 GitHub Stats
 
