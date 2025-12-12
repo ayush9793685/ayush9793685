@@ -17,11 +17,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **B.TECH in computer Science** – MUJ  
-- 💼 Former **Data Scientist @ MeitY (Government of India)**  
-- 🔭 Working on **AI Agents & Chatbots** with **LangChain & LangGraph**  
-- 🤖 Interested in **LLMs, RAG systems & Generative AI**  
-- 🛡️ **Cybersecurity hobbyist**   
+## 🙋‍♂️ About Me
+- 🎓 **B.Tech in Computer Science (Data Science)** – Manipal University Jaipur 
+- 💼 **Intern @ National e-Governance Division, MeitY (Govt. of India)** 
+- 🔬 **Published Researcher** – Springer (AI-Based Malware Detection)
+- 🔭 Working on **PatchPulse: AI-Powered Vulnerability Management System**
+- 🛡️ **Cybersecurity Specialist** – SAST, VAPT, Malware Analysis & Dark Web Monitoring
+- 🤖 Interested in **AI/ML, CNNs, DevSecOps & Threat Detection**
 - 📧 **ayush7607yadav@gmail.com**
 
 <br clear="right" />
