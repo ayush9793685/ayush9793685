@@ -31,43 +31,43 @@
 
 ---
 
+---
 ## 🧠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,linux,tensorflow,pytorch,git,mysql,matlab,vscode,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,tensorflow,pytorch,mysql,mongodb,git,vscode,linux&theme=dark" />
 </p>
-
 <table align="center">
 <tr>
 <td valign="top" width="33%">
 
 #### 🧮 AI / ML
 - Python, NumPy, Pandas  
-- TensorFlow, PyTorch  
-- Scikit-learn, Seaborn  
+- TensorFlow, Keras  
+- OpenCV, Neural Networks
+- Google Colab
 
 </td>
 <td valign="top" width="33%">
 
-#### 🦜 LLM & Agents
-- LangChain, LangGraph  
-- OpenAI / GPT  
-- RAG, Chatbots  
+#### 🛡️ Cybersecurity
+- SAST & Malware Analysis
+- VAPT & API Security  
+- Dark Web Monitoring
+- DevSecOps & CI/CD
 
 </td>
 <td valign="top" width="33%">
 
-#### 🛡️ Cyber (Fun)
-- TryHackMe 
-- Kali Linux  
-- Wireshark  
+#### 💻 Development
+- C, Java, Python
+- SQL, MySQL, MongoDB
+- Git, OpenMP
+- Tkinter, pygame
 
 </td>
 </tr>
 </table>
-
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
