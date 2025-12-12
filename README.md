@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arshsoni1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://www.linkedin.com/in/ayush-yadav-cse" />
   <img src="https://img.shields.io/github/followers/arshsoni1?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-ff0033?style=flat-square&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India-111827?style=flat-square" />
