@@ -67,15 +67,80 @@
 </table>
 
 ---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ [PatchPulse](https://github.com/ayush9793685/patchpulse)
+**AI-Powered Vulnerability Management System**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/Security-SAST-red)
+
+- Automated security scanner with SAST + CVE monitoring
+- Multi-LLM consensus for intelligent patch generation
+- Detects SQL injection, XSS, dependency vulnerabilities
+- CLI/API interfaces for DevSecOps integration
+
+</td>
+<td width="50%">
+
+### 🦠 [Hybrid APK Malware Detector](https://github.com/ayush9793685/apk-malware-detection)
+**Published Research - Springer 2025**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- Hybrid analysis pipeline for 500+ APK files
+- Static + Dynamic malware detection approach
+- MongoDB & OpenMP integration (40% faster)
+- Presented at NICE-TEAS 2025
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🖼️ [Malware Detection via CNN](https://github.com/ayush9793685/malware-cnn-detection)
+**Image-Based Binary Analysis**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+- Converts binaries to grayscale images for CNN analysis
+- Trained on 10,000+ samples with augmentation
+- Zero-day threat detection capability
+- TensorFlow/Keras implementation
+
+</td>
+<td width="50%">
+
+### 🔐 [SAST Scanner](https://github.com/ayush9793685/sast-scanner)
+**DevSecOps Vulnerability Detection**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Security](https://img.shields.io/badge/DevSecOps-blue)
+
+- Detected vulnerabilities in 200+ codebases
+- Integrated into CI/CD workflows
+- Enhanced DevSecOps automation
+- Built during BitxiaTech internship
+
+</td>
+</tr>
+</table>
+
+---
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arshsoni1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsoni1&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush9793685&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9793685&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshsoni1&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush9793685&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 </div>
 
 ---
