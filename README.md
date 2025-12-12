@@ -10,12 +10,9 @@
 
 <br />
 
-
 ---
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
-
-
 
 ## 🙋‍♂️ About Me
 
@@ -30,6 +27,7 @@
 <br clear="right" />
 
 ---
+
 ## 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,tensorflow,pytorch,mysql,mongodb,git,vscode,linux&theme=dark" />
@@ -67,8 +65,10 @@
 </table>
 
 ---
+
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -132,13 +132,12 @@
 </td>
 </tr>
 </table>
+</div>
 
 ---
+
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush9793685&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9793685&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush9793685&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
 </div>
