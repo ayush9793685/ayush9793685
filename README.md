@@ -15,9 +15,10 @@
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 
-## 🙋‍♂️ About Me
+
 
 ## 🙋‍♂️ About Me
+
 - 🎓 **B.Tech in Computer Science (Data Science)** – Manipal University Jaipur 
 - 💼 **Intern @ National e-Governance Division, MeitY (Govt. of India)** 
 - 🔬 **Published Researcher** – Springer (AI-Based Malware Detection)
