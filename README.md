@@ -86,7 +86,7 @@
 
 </td>
 <td width="50%">
-### 🦠 [Hybrid APK Malware Detector](https://github.com/ayush9793685/apk-malware-detection)
+🦠 [Hybrid APK Malware Detector](https://github.com/ayush9793685/apk-malware-detection)
 **Published Research - Springer 2025**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
