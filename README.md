@@ -73,7 +73,7 @@
 <tr>
 <td width="50%">
 
-### 🛡️ [PatchPulse](https://github.com/ayush9793685/patchpulse)
+### 🛡️ [PatchPulse](https://github.com/ayush9793685/Patch-Plus)
 **AI-Powered Vulnerability Management System**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
