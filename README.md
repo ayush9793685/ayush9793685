@@ -104,7 +104,7 @@
 <tr>
 <td width="50%">
 
-### 🖼️ [Malware Detection via CNN](https://github.com/ayush9793685/malware-cnn-detection)
+### 🖼️ [Malware Detection via CNN](https://github.com/ayush9793685/malware-detection-through-image-processing-using-CNN)
 **Image-Based Binary Analysis**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
